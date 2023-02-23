@@ -1,5 +1,65 @@
-.mynav{
+body{
+    text-align: center;
+}
 
-margin-left: auto;
+
+.navbar-nav{
+    margin-left: auto;
+    font-size: x-large;
+}
+#Welcome{
+    margin: 0%;
+    padding-top: 25rem;
+    padding-bottom: 25rem;
+    background-color: #2B3467;
+    color: white;
+    
+}
+.web-dev{
+    color: #EB455F;
+    line-height: 1.5;
 
 }
+
+
+#projects{
+    background-color:#BDCDD6;
+    padding-top: 3rem;
+}
+
+
+.projects-head{
+
+    padding-bottom: 8%;
+
+}
+.project-image{
+
+    height: 20rem;
+    width: 100%;
+    object-fit: cover;
+}
+.project-title{
+    font-size: large;
+    background-color: #4A403A;
+    line-height: 4;
+    color: whitesmoke;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+    font-weight: 700;
+}
+
+#contact{
+    background-color: #D7D1C9;
+    font-size: large;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+}
+
+
+
+
+
